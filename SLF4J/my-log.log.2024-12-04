@@ -1,0 +1,8 @@
+2024-12-04 23:09:24 [main] DEBUG com.nit.SelectTest - main method started
+2024-12-04 23:09:25 [main] INFO  com.nit.SelectTest - Connection object is created
+2024-12-04 23:09:25 [main] DEBUG com.nit.SelectTest - PreparedStatement object is created
+2024-12-04 23:09:25 [main] DEBUG com.nit.SelectTest - ResultSet object is created
+2024-12-04 23:09:25 [main] WARN  com.nit.SelectTest - for Sal rs.getDouble is used rather then rs.getdouble
+2024-12-04 23:09:25 [main] DEBUG com.nit.SelectTest - ResultSet Object is Processed
+2024-12-04 23:09:25 [main] TRACE com.nit.SelectTest - Connection, PreparedStatement,ResultSet object are closed automatically at the end of try with resource
+2024-12-04 23:09:25 [main] DEBUG com.nit.SelectTest - End of the main()
